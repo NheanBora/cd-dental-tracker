@@ -30,3 +30,6 @@ Deploy on Vercel:
 - `pnpm build`: Build for production
 - `pnpm test`: Run Vitest tests
 - `pnpm db:seed`: Seed sample data
+git add README.md
+git commit -m "Update README with setup instructions"
+git push origin main
